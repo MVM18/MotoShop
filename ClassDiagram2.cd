@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MotoShop.Dash" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIAAEAACAAsBCABCiAACACAAAAAAAAAAAAAQUQABE=</HashCode>
+      <FileName>Dash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Dashboard" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAogAEJACgAIJAABCqAQICfCIAAECCAAQACAWkQCBI=</HashCode>
+      <FileName>Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Form1" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAABAAAACAAAACAAAAQAAAAAQAAQAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Load" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAAAACAAAACAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Load.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Modify" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AOogAgQABCAAADAQAACIABACBIAIgAAAQQACAUgBAQY=</HashCode>
+      <FileName>Modify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.NewAcc" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAECIQWAGABEAIgGYEmBCAAIAAAAAAAAAAQABAAA=</HashCode>
+      <FileName>NewAcc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Product" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EDAIBQEQACAIACAAAACCQgECAAAIAABAAAgAAAAAYSA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.ProductForm" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAABAACACCJAAIQAACAAAgCAABgAAAAAAgQgQAMYAA=</HashCode>
+      <FileName>ProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.ProductInfo" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAEEAQAgAAAAAAAAAIAAAAAAAAAAAAgAgAAJgAA=</HashCode>
+      <FileName>ProductInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Program" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.ReportsControl" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AWAAAAAAACAAAAAAACCAAQACAAAAACAAAAAAGQAAAAA=</HashCode>
+      <FileName>ReportsControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.ServiceControl" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAIACQAACAAAA=</HashCode>
+      <FileName>ServiceControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Services" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAQAACAABBECEACCAAACAAAAAAAAAEAAAAAAQAA=</HashCode>
+      <FileName>Services.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.UserLog" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQgAIAAQTBEABAACACiADBCAAAIiAACAIAAAQBAAAA=</HashCode>
+      <FileName>UserLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotoShop.Properties.Resources" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
